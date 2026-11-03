@@ -1,5 +1,5 @@
 
-# CIFRADO CESAR BY VALERIA
+# CIFRADO CESAR
 def cifrar_letra(letra, desplazamiento): # deficibión de la función para cifrar una letra
     if desplazamiento < 1 or desplazamiento > 25: # Validación del desplazamiento para que sea entre 1 y 25
         return "Error: desplazamiento imposible"
